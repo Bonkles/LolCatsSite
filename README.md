@@ -14,11 +14,11 @@ API Documentation:
 See /Help/Index.html for documentation created from the sources of this project. 
 
 Highlights: 
--Linq Queries are featured prominently in the LolCatController.cs (Controllers/LolCatController.cs)
--The LolCat document template is located at Models/LolCat.cs
--The RavenDB server setup is governed by the file Core/RavenDB.cs
--The images that get stored in the DB are automatically loaded by the Core/ImageImporter.cs
--Index.cshtml contains some simple jQuery calls to write database data to the screen, and load the lolCat Images
+* Linq Queries are featured prominently in the LolCatController.cs (Controllers/LolCatController.cs)
+* The LolCat document template is located at Models/LolCat.cs
+* The RavenDB server setup is governed by the file Core/RavenDB.cs
+* The images that get stored in the DB are automatically loaded by the Core/ImageImporter.cs
+* Index.cshtml contains some simple jQuery calls to write database data to the screen, and load the lolCat Images
  so the user can have a nice chuckle. 
 
 
@@ -46,8 +46,8 @@ Upon server startup, the following occurs:
 
 
 Known Bugs: 
-Only 'happy path' testing has been performed. 
-Currently there is no way to set the Cuteness or Rating properties of the documents- though, there are working 
+* Only 'happy path' testing has been performed. 
+* Currently there is no way to set the Cuteness or Rating properties of the documents- though, there are working 
 LINQ queries written to fetch lolcats of a minimum rating and/or Cuteness threshold. 
 
 
