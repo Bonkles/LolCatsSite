@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="7a1dccc3-1c12-4f4b-af0f-eafd8065850e" Title="DataCore Namespace" Url="html/07b8a83f-fcbc-54c5-2ad8-c6466bed858c.htm">
+    <HelpTOCNode Id="0113078a-a810-4e69-a91a-3071140f07a7" Title="RavenDB Class" Url="html/3ac0c5ea-80eb-9e1c-84eb-2daa6dc731db.htm">
+      <HelpTOCNode Title="RavenDB Members" Url="html/2cfc956b-ce65-80aa-52d1-f0a99fe2e444.htm" />
+      <HelpTOCNode Title="RavenDB Constructor " Url="html/85dd01f3-f18e-3977-7849-61a007979307.htm" />
+      <HelpTOCNode Id="9c215e1c-f867-4f37-b29a-d0b0905cd589" Title="RavenDB Methods" Url="html/76b7cfa6-de60-927e-d034-76887c066138.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/05e9e02c-f0f5-f342-19c9-c5c938e4417d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ba3749a1-506c-4c46-a005-ea373d40bc1a" Title="RavenDB Properties" Url="html/f0564ed9-737f-5b75-d487-479a07616ef3.htm">
+        <HelpTOCNode Title="DocStore Property " Url="html/8ba1fa2c-3051-2a1e-8a12-c1ac25bba9f5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="f54e6bd1-43b2-4317-96e5-e20708f3504c" Title="DataImporters Namespace" Url="html/2164a27f-b4bc-01c4-08dc-989cb8a889c3.htm">
+    <HelpTOCNode Id="cdbf4fce-afb9-410e-9170-5bec22e235c2" Title="ImageImporter Class" Url="html/6d7239c4-ec74-9a40-132b-79519191349f.htm">
+      <HelpTOCNode Title="ImageImporter Members" Url="html/dcd1c8dc-419c-f778-5f67-8598dc280440.htm" />
+      <HelpTOCNode Title="ImageImporter Constructor " Url="html/2f857be6-ef0d-6ebf-f576-912ed14629aa.htm" />
+      <HelpTOCNode Id="e4b49d1c-ae11-450a-8780-35f0cc4a7e95" Title="ImageImporter Methods" Url="html/0f64fa4f-6a54-db99-fbc8-e18f03bdab1a.htm">
+        <HelpTOCNode Title="lookThroughInbox Method " Url="html/11eb4326-cd88-6197-ba39-70dfda5bac32.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a77c6bdc-351d-41b2-a908-b80f94cfc05a" Title="ImageImporter Properties" Url="html/f757bfed-154e-7f0b-bc5a-a0748a7a7960.htm">
+        <HelpTOCNode Title="FullPathToImageDirectory Property " Url="html/ed026a1a-c7fd-4347-070e-dd774e1c269c.htm" />
+        <HelpTOCNode Title="LolCatFilePaths Property " Url="html/0e17f05c-23a4-f4a1-4bc5-650650800ac8.htm" />
+        <HelpTOCNode Title="NewPics Property " Url="html/25244e48-9b4d-899d-00fd-0a71f344925f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="26185892-4dff-481b-9697-f516c32548e3" Title="MvcTestApp Namespace" Url="html/6436bdc7-eef0-6596-0384-a53df425bf2b.htm">
+    <HelpTOCNode Id="703eb0e5-0730-4f80-822d-473100cd8ee0" Title="BundleConfig Class" Url="html/db86573d-b0d3-df45-9e84-9ee7d1238ad1.htm">
+      <HelpTOCNode Title="BundleConfig Members" Url="html/204af9cc-0ab1-5868-5bb5-d0334cbb83fb.htm" />
+      <HelpTOCNode Title="BundleConfig Constructor " Url="html/f2df0f50-330e-5bb6-de33-76fddb9b7911.htm" />
+      <HelpTOCNode Id="ffc857f4-d8a0-4a87-b1a2-ab8a9ff06314" Title="BundleConfig Methods" Url="html/ab2b8e21-fc22-ca70-5369-3981dcd23e7c.htm">
+        <HelpTOCNode Title="RegisterBundles Method " Url="html/e39be3c0-bd44-1e09-2ae7-46ddcc1c7c28.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dce0205c-45bd-4cc9-82ff-7bbf1bf7cf25" Title="FilterConfig Class" Url="html/e4fc44fe-2fc3-bba5-29e3-de8c3feb3137.htm">
+      <HelpTOCNode Title="FilterConfig Members" Url="html/fb720993-43d0-e879-f28e-d5191a0687a1.htm" />
+      <HelpTOCNode Title="FilterConfig Constructor " Url="html/5fc5031b-6c81-e34b-aafc-1663f261e646.htm" />
+      <HelpTOCNode Id="21938b19-840b-4f4f-a72e-3acc0352d5d0" Title="FilterConfig Methods" Url="html/28eb4b72-6df7-8f4d-ef3b-8ba627f254a1.htm">
+        <HelpTOCNode Title="RegisterGlobalFilters Method " Url="html/4dab7f0a-3761-5458-d599-ac0fde278b5b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1ceb12b2-8f80-4439-af62-349bca3743c2" Title="RouteConfig Class" Url="html/3a226255-eb65-94dc-146c-41211930d6c8.htm">
+      <HelpTOCNode Title="RouteConfig Members" Url="html/31ee49d3-a290-c469-6ad7-f6c0f6063d27.htm" />
+      <HelpTOCNode Title="RouteConfig Constructor " Url="html/6c275922-11a7-b78a-ef94-8fd34baa7b8b.htm" />
+      <HelpTOCNode Id="542944e9-0be6-47bb-9026-424460c888b8" Title="RouteConfig Methods" Url="html/d8d54e99-7121-fd16-ea72-4eae1f41b90b.htm">
+        <HelpTOCNode Title="RegisterRoutes Method " Url="html/10b02c36-b685-b7f9-4c73-c066f55ed017.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e86b41b5-583c-4e01-9f14-411e6998a7dc" Title="WebApiApplication Class" Url="html/ac40971b-9896-173e-3f4b-bec212d05e25.htm">
+      <HelpTOCNode Title="WebApiApplication Members" Url="html/75d62451-3a2b-b05d-594e-9613b20ea6bf.htm" />
+      <HelpTOCNode Title="WebApiApplication Constructor " Url="html/1d916861-dc92-ec3a-ee1c-4a54e4729b5d.htm" />
+      <HelpTOCNode Id="61e856cb-b5b8-470e-9dc7-7f48790f989d" Title="WebApiApplication Methods" Url="html/cb1e3472-0123-acd9-27fd-6c7d3e7c9ecb.htm">
+        <HelpTOCNode Title="Application_Start Method " Url="html/b6f8e91c-e8d1-dede-5191-e512b603c040.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="b6c600f0-9596-41c7-8cfa-7a911349129a" Title="MvcTestApp.Controllers Namespace" Url="html/3db04ca4-d670-c9ac-a153-e466bf0cde3b.htm">
+    <HelpTOCNode Id="1353fa0d-04c3-48fe-955e-197546bef356" Title="HomeController Class" Url="html/b6944e2f-2113-9534-9af0-2673b7dbd264.htm">
+      <HelpTOCNode Title="HomeController Members" Url="html/34372046-004e-71ec-6841-4227e6248bb9.htm" />
+      <HelpTOCNode Title="HomeController Constructor " Url="html/0f2eb27b-abb6-7058-310b-7ceba76ca468.htm" />
+      <HelpTOCNode Id="bb103935-9200-4231-b8e8-c45c041cb98c" Title="HomeController Methods" Url="html/d9d74f4f-452e-d176-6422-de891ce47d34.htm">
+        <HelpTOCNode Title="Index Method " Url="html/3f2e6ef9-7ba2-b07a-1cdb-3a925447a827.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e747d3b4-eeb6-4428-96e3-d852ab0a12a2" Title="LolCatsController Class" Url="html/acced441-84c0-f7e5-ec52-02b31c068321.htm">
+      <HelpTOCNode Title="LolCatsController Members" Url="html/1c3b5d4b-d5bd-4cc2-68e3-0c64240cfc06.htm" />
+      <HelpTOCNode Title="LolCatsController Constructor " Url="html/ed95b377-de55-9507-8940-0063e6d28fb4.htm" />
+      <HelpTOCNode Id="5280349c-8b34-4a3b-b32d-ff5d03a98461" Title="LolCatsController Methods" Url="html/d75c5c64-f70d-0a24-e85e-fced5a0d71d1.htm">
+        <HelpTOCNode Title="GetAllLolCats Method " Url="html/33b8f717-4e1c-9b58-eae1-8214ce9a496f.htm" />
+        <HelpTOCNode Title="GetlolCatById Method " Url="html/22c98109-7075-d779-4cb9-6a611c22e11b.htm" />
+        <HelpTOCNode Title="GetlolCatByRandom Method " Url="html/2bf201d4-b7ae-690d-c4d2-ec2344cd1269.htm" />
+        <HelpTOCNode Title="GetlolCatsByCuteness Method " Url="html/5cac702f-5ac9-15cb-24d7-2d0fa44c11e7.htm" />
+        <HelpTOCNode Title="GetlolCatsByRating Method " Url="html/534667ca-1230-0220-ef96-739d79a89bde.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="82f0d855-abd9-424a-8298-739503644b97" Title="MvcTestApp.Models Namespace" Url="html/91554097-510e-b4d4-110d-e839548a2260.htm">
+    <HelpTOCNode Id="3d581148-73ce-41a9-83bf-d1e03294d7f8" Title="LolCat Class" Url="html/52eb59d5-26bd-2b18-31e9-a85c7aa20d02.htm">
+      <HelpTOCNode Title="LolCat Members" Url="html/afcfd6e9-f7f5-acb1-0fe2-64bae43fad4c.htm" />
+      <HelpTOCNode Id="8a96049f-a331-4f94-a649-e2097939ae34" Title="LolCat Constructor " Url="html/94b927fe-bfcd-d758-675c-4afde06a5fee.htm">
+        <HelpTOCNode Title="LolCat Constructor " Url="html/34922b7f-9c97-173c-3882-e229bff3b675.htm" />
+        <HelpTOCNode Title="LolCat Constructor (String)" Url="html/42993d0d-20cb-18e7-9fee-2aca541635ee.htm" />
+        <HelpTOCNode Title="LolCat Constructor (Int32, Decimal, String)" Url="html/6e71797b-1be0-822c-feac-b9f548637222.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dfb377a1-8cfb-4f12-9335-90b1159dbc64" Title="LolCat Methods" Url="html/d4ccccb8-3cc6-a0d4-9348-55b126a07e1d.htm">
+        <HelpTOCNode Title="fileNameFromFullPath Method " Url="html/4bf21969-6da5-ae29-8de8-c6441c9eaa7b.htm" />
+        <HelpTOCNode Title="relativeImgPathFromFullPath Method " Url="html/ce16d543-c825-7b45-c70e-45ff62d21280.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f068f75b-44be-4345-95e8-ab48e8379283" Title="LolCat Properties" Url="html/857f3193-b48e-d5a1-71f9-82d105fa2a3c.htm">
+        <HelpTOCNode Title="Cuteness Property " Url="html/9f2e980a-ae84-d26c-b6a6-57b841c1375d.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/11863ef4-9f8a-e3ed-efff-a4e6c3d2ccaf.htm" />
+        <HelpTOCNode Title="ImgFilePath Property " Url="html/5d923146-9327-c5a5-2d88-4bc6c1e0ff21.htm" />
+        <HelpTOCNode Title="Rating Property " Url="html/7d04795a-bb1c-ba49-450a-4bc8551d2ea3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

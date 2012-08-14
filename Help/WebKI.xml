@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="Application_Start method" Url="html/b6f8e91c-e8d1-dede-5191-e512b603c040.htm" />
+  <HelpKINode Title="BundleConfig class" Url="html/204af9cc-0ab1-5868-5bb5-d0334cbb83fb.htm" />
+  <HelpKINode Title="BundleConfig class" Url="html/db86573d-b0d3-df45-9e84-9ee7d1238ad1.htm" />
+  <HelpKINode Title="BundleConfig class">
+    <HelpKINode Title="about BundleConfig class" Url="html/db86573d-b0d3-df45-9e84-9ee7d1238ad1.htm" />
+    <HelpKINode Title="all members" Url="html/204af9cc-0ab1-5868-5bb5-d0334cbb83fb.htm" />
+    <HelpKINode Title="constructor" Url="html/f2df0f50-330e-5bb6-de33-76fddb9b7911.htm" />
+    <HelpKINode Title="methods" Url="html/ab2b8e21-fc22-ca70-5369-3981dcd23e7c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BundleConfig.BundleConfig constructor" Url="html/f2df0f50-330e-5bb6-de33-76fddb9b7911.htm" />
+  <HelpKINode Title="BundleConfig.RegisterBundles method" Url="html/e39be3c0-bd44-1e09-2ae7-46ddcc1c7c28.htm" />
+  <HelpKINode Title="Connect method" Url="html/05e9e02c-f0f5-f342-19c9-c5c938e4417d.htm" />
+  <HelpKINode Title="Cuteness property" Url="html/9f2e980a-ae84-d26c-b6a6-57b841c1375d.htm" />
+  <HelpKINode Title="DataCore namespace" Url="html/07b8a83f-fcbc-54c5-2ad8-c6466bed858c.htm" />
+  <HelpKINode Title="DataCore.RavenDB class" Url="html/2cfc956b-ce65-80aa-52d1-f0a99fe2e444.htm" />
+  <HelpKINode Title="DataCore.RavenDB class" Url="html/3ac0c5ea-80eb-9e1c-84eb-2daa6dc731db.htm" />
+  <HelpKINode Title="DataImporters namespace" Url="html/2164a27f-b4bc-01c4-08dc-989cb8a889c3.htm" />
+  <HelpKINode Title="DataImporters.ImageImporter class" Url="html/6d7239c4-ec74-9a40-132b-79519191349f.htm" />
+  <HelpKINode Title="DataImporters.ImageImporter class" Url="html/dcd1c8dc-419c-f778-5f67-8598dc280440.htm" />
+  <HelpKINode Title="DocStore property" Url="html/8ba1fa2c-3051-2a1e-8a12-c1ac25bba9f5.htm" />
+  <HelpKINode Title="fileNameFromFullPath method" Url="html/4bf21969-6da5-ae29-8de8-c6441c9eaa7b.htm" />
+  <HelpKINode Title="FilterConfig class" Url="html/e4fc44fe-2fc3-bba5-29e3-de8c3feb3137.htm" />
+  <HelpKINode Title="FilterConfig class" Url="html/fb720993-43d0-e879-f28e-d5191a0687a1.htm" />
+  <HelpKINode Title="FilterConfig class">
+    <HelpKINode Title="about FilterConfig class" Url="html/e4fc44fe-2fc3-bba5-29e3-de8c3feb3137.htm" />
+    <HelpKINode Title="all members" Url="html/fb720993-43d0-e879-f28e-d5191a0687a1.htm" />
+    <HelpKINode Title="constructor" Url="html/5fc5031b-6c81-e34b-aafc-1663f261e646.htm" />
+    <HelpKINode Title="methods" Url="html/28eb4b72-6df7-8f4d-ef3b-8ba627f254a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FilterConfig.FilterConfig constructor" Url="html/5fc5031b-6c81-e34b-aafc-1663f261e646.htm" />
+  <HelpKINode Title="FilterConfig.RegisterGlobalFilters method" Url="html/4dab7f0a-3761-5458-d599-ac0fde278b5b.htm" />
+  <HelpKINode Title="FullPathToImageDirectory property" Url="html/ed026a1a-c7fd-4347-070e-dd774e1c269c.htm" />
+  <HelpKINode Title="GetAllLolCats method" Url="html/33b8f717-4e1c-9b58-eae1-8214ce9a496f.htm" />
+  <HelpKINode Title="GetlolCatById method" Url="html/22c98109-7075-d779-4cb9-6a611c22e11b.htm" />
+  <HelpKINode Title="GetlolCatByRandom method" Url="html/2bf201d4-b7ae-690d-c4d2-ec2344cd1269.htm" />
+  <HelpKINode Title="GetlolCatsByCuteness method" Url="html/5cac702f-5ac9-15cb-24d7-2d0fa44c11e7.htm" />
+  <HelpKINode Title="GetlolCatsByRating method" Url="html/534667ca-1230-0220-ef96-739d79a89bde.htm" />
+  <HelpKINode Title="HomeController class" Url="html/34372046-004e-71ec-6841-4227e6248bb9.htm" />
+  <HelpKINode Title="HomeController class" Url="html/b6944e2f-2113-9534-9af0-2673b7dbd264.htm" />
+  <HelpKINode Title="HomeController class">
+    <HelpKINode Title="about HomeController class" Url="html/b6944e2f-2113-9534-9af0-2673b7dbd264.htm" />
+    <HelpKINode Title="all members" Url="html/34372046-004e-71ec-6841-4227e6248bb9.htm" />
+    <HelpKINode Title="constructor" Url="html/0f2eb27b-abb6-7058-310b-7ceba76ca468.htm" />
+    <HelpKINode Title="methods" Url="html/d9d74f4f-452e-d176-6422-de891ce47d34.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HomeController.HomeController constructor" Url="html/0f2eb27b-abb6-7058-310b-7ceba76ca468.htm" />
+  <HelpKINode Title="HomeController.Index method" Url="html/3f2e6ef9-7ba2-b07a-1cdb-3a925447a827.htm" />
+  <HelpKINode Title="Id property" Url="html/11863ef4-9f8a-e3ed-efff-a4e6c3d2ccaf.htm" />
+  <HelpKINode Title="ImageImporter class" Url="html/6d7239c4-ec74-9a40-132b-79519191349f.htm" />
+  <HelpKINode Title="ImageImporter class" Url="html/dcd1c8dc-419c-f778-5f67-8598dc280440.htm" />
+  <HelpKINode Title="ImageImporter class">
+    <HelpKINode Title="about ImageImporter class" Url="html/6d7239c4-ec74-9a40-132b-79519191349f.htm" />
+    <HelpKINode Title="all members" Url="html/dcd1c8dc-419c-f778-5f67-8598dc280440.htm" />
+    <HelpKINode Title="constructor" Url="html/2f857be6-ef0d-6ebf-f576-912ed14629aa.htm" />
+    <HelpKINode Title="methods" Url="html/0f64fa4f-6a54-db99-fbc8-e18f03bdab1a.htm" />
+    <HelpKINode Title="properties" Url="html/f757bfed-154e-7f0b-bc5a-a0748a7a7960.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImageImporter.FullPathToImageDirectory property" Url="html/ed026a1a-c7fd-4347-070e-dd774e1c269c.htm" />
+  <HelpKINode Title="ImageImporter.ImageImporter constructor" Url="html/2f857be6-ef0d-6ebf-f576-912ed14629aa.htm" />
+  <HelpKINode Title="ImageImporter.LolCatFilePaths property" Url="html/0e17f05c-23a4-f4a1-4bc5-650650800ac8.htm" />
+  <HelpKINode Title="ImageImporter.lookThroughInbox method" Url="html/11eb4326-cd88-6197-ba39-70dfda5bac32.htm" />
+  <HelpKINode Title="ImageImporter.NewPics property" Url="html/25244e48-9b4d-899d-00fd-0a71f344925f.htm" />
+  <HelpKINode Title="ImgFilePath property" Url="html/5d923146-9327-c5a5-2d88-4bc6c1e0ff21.htm" />
+  <HelpKINode Title="Index method" Url="html/3f2e6ef9-7ba2-b07a-1cdb-3a925447a827.htm" />
+  <HelpKINode Title="LolCat class" Url="html/52eb59d5-26bd-2b18-31e9-a85c7aa20d02.htm" />
+  <HelpKINode Title="LolCat class" Url="html/afcfd6e9-f7f5-acb1-0fe2-64bae43fad4c.htm" />
+  <HelpKINode Title="LolCat class">
+    <HelpKINode Title="about LolCat class" Url="html/52eb59d5-26bd-2b18-31e9-a85c7aa20d02.htm" />
+    <HelpKINode Title="all members" Url="html/afcfd6e9-f7f5-acb1-0fe2-64bae43fad4c.htm" />
+    <HelpKINode Title="constructor" Url="html/94b927fe-bfcd-d758-675c-4afde06a5fee.htm" />
+    <HelpKINode Title="methods" Url="html/d4ccccb8-3cc6-a0d4-9348-55b126a07e1d.htm" />
+    <HelpKINode Title="properties" Url="html/857f3193-b48e-d5a1-71f9-82d105fa2a3c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LolCat.Cuteness property" Url="html/9f2e980a-ae84-d26c-b6a6-57b841c1375d.htm" />
+  <HelpKINode Title="LolCat.fileNameFromFullPath method" Url="html/4bf21969-6da5-ae29-8de8-c6441c9eaa7b.htm" />
+  <HelpKINode Title="LolCat.Id property" Url="html/11863ef4-9f8a-e3ed-efff-a4e6c3d2ccaf.htm" />
+  <HelpKINode Title="LolCat.ImgFilePath property" Url="html/5d923146-9327-c5a5-2d88-4bc6c1e0ff21.htm" />
+  <HelpKINode Title="LolCat.LolCat constructor" Url="html/94b927fe-bfcd-d758-675c-4afde06a5fee.htm" />
+  <HelpKINode Title="LolCat.Rating property" Url="html/7d04795a-bb1c-ba49-450a-4bc8551d2ea3.htm" />
+  <HelpKINode Title="LolCat.relativeImgPathFromFullPath method" Url="html/ce16d543-c825-7b45-c70e-45ff62d21280.htm" />
+  <HelpKINode Title="LolCatFilePaths property" Url="html/0e17f05c-23a4-f4a1-4bc5-650650800ac8.htm" />
+  <HelpKINode Title="LolCatsController class" Url="html/1c3b5d4b-d5bd-4cc2-68e3-0c64240cfc06.htm" />
+  <HelpKINode Title="LolCatsController class" Url="html/acced441-84c0-f7e5-ec52-02b31c068321.htm" />
+  <HelpKINode Title="LolCatsController class">
+    <HelpKINode Title="about LolCatsController class" Url="html/acced441-84c0-f7e5-ec52-02b31c068321.htm" />
+    <HelpKINode Title="all members" Url="html/1c3b5d4b-d5bd-4cc2-68e3-0c64240cfc06.htm" />
+    <HelpKINode Title="constructor" Url="html/ed95b377-de55-9507-8940-0063e6d28fb4.htm" />
+    <HelpKINode Title="methods" Url="html/d75c5c64-f70d-0a24-e85e-fced5a0d71d1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LolCatsController.GetAllLolCats method" Url="html/33b8f717-4e1c-9b58-eae1-8214ce9a496f.htm" />
+  <HelpKINode Title="LolCatsController.GetlolCatById method" Url="html/22c98109-7075-d779-4cb9-6a611c22e11b.htm" />
+  <HelpKINode Title="LolCatsController.GetlolCatByRandom method" Url="html/2bf201d4-b7ae-690d-c4d2-ec2344cd1269.htm" />
+  <HelpKINode Title="LolCatsController.GetlolCatsByCuteness method" Url="html/5cac702f-5ac9-15cb-24d7-2d0fa44c11e7.htm" />
+  <HelpKINode Title="LolCatsController.GetlolCatsByRating method" Url="html/534667ca-1230-0220-ef96-739d79a89bde.htm" />
+  <HelpKINode Title="LolCatsController.LolCatsController constructor" Url="html/ed95b377-de55-9507-8940-0063e6d28fb4.htm" />
+  <HelpKINode Title="lookThroughInbox method" Url="html/11eb4326-cd88-6197-ba39-70dfda5bac32.htm" />
+  <HelpKINode Title="MvcTestApp namespace" Url="html/6436bdc7-eef0-6596-0384-a53df425bf2b.htm" />
+  <HelpKINode Title="MvcTestApp.BundleConfig class" Url="html/204af9cc-0ab1-5868-5bb5-d0334cbb83fb.htm" />
+  <HelpKINode Title="MvcTestApp.BundleConfig class" Url="html/db86573d-b0d3-df45-9e84-9ee7d1238ad1.htm" />
+  <HelpKINode Title="MvcTestApp.Controllers namespace" Url="html/3db04ca4-d670-c9ac-a153-e466bf0cde3b.htm" />
+  <HelpKINode Title="MvcTestApp.Controllers.HomeController class" Url="html/34372046-004e-71ec-6841-4227e6248bb9.htm" />
+  <HelpKINode Title="MvcTestApp.Controllers.HomeController class" Url="html/b6944e2f-2113-9534-9af0-2673b7dbd264.htm" />
+  <HelpKINode Title="MvcTestApp.Controllers.LolCatsController class" Url="html/1c3b5d4b-d5bd-4cc2-68e3-0c64240cfc06.htm" />
+  <HelpKINode Title="MvcTestApp.Controllers.LolCatsController class" Url="html/acced441-84c0-f7e5-ec52-02b31c068321.htm" />
+  <HelpKINode Title="MvcTestApp.FilterConfig class" Url="html/e4fc44fe-2fc3-bba5-29e3-de8c3feb3137.htm" />
+  <HelpKINode Title="MvcTestApp.FilterConfig class" Url="html/fb720993-43d0-e879-f28e-d5191a0687a1.htm" />
+  <HelpKINode Title="MvcTestApp.Models namespace" Url="html/91554097-510e-b4d4-110d-e839548a2260.htm" />
+  <HelpKINode Title="MvcTestApp.Models.LolCat class" Url="html/52eb59d5-26bd-2b18-31e9-a85c7aa20d02.htm" />
+  <HelpKINode Title="MvcTestApp.Models.LolCat class" Url="html/afcfd6e9-f7f5-acb1-0fe2-64bae43fad4c.htm" />
+  <HelpKINode Title="MvcTestApp.RouteConfig class" Url="html/31ee49d3-a290-c469-6ad7-f6c0f6063d27.htm" />
+  <HelpKINode Title="MvcTestApp.RouteConfig class" Url="html/3a226255-eb65-94dc-146c-41211930d6c8.htm" />
+  <HelpKINode Title="MvcTestApp.WebApiApplication class" Url="html/75d62451-3a2b-b05d-594e-9613b20ea6bf.htm" />
+  <HelpKINode Title="MvcTestApp.WebApiApplication class" Url="html/ac40971b-9896-173e-3f4b-bec212d05e25.htm" />
+  <HelpKINode Title="NewPics property" Url="html/25244e48-9b4d-899d-00fd-0a71f344925f.htm" />
+  <HelpKINode Title="Rating property" Url="html/7d04795a-bb1c-ba49-450a-4bc8551d2ea3.htm" />
+  <HelpKINode Title="RavenDB class" Url="html/2cfc956b-ce65-80aa-52d1-f0a99fe2e444.htm" />
+  <HelpKINode Title="RavenDB class" Url="html/3ac0c5ea-80eb-9e1c-84eb-2daa6dc731db.htm" />
+  <HelpKINode Title="RavenDB class">
+    <HelpKINode Title="about RavenDB class" Url="html/3ac0c5ea-80eb-9e1c-84eb-2daa6dc731db.htm" />
+    <HelpKINode Title="all members" Url="html/2cfc956b-ce65-80aa-52d1-f0a99fe2e444.htm" />
+    <HelpKINode Title="constructor" Url="html/85dd01f3-f18e-3977-7849-61a007979307.htm" />
+    <HelpKINode Title="methods" Url="html/76b7cfa6-de60-927e-d034-76887c066138.htm" />
+    <HelpKINode Title="properties" Url="html/f0564ed9-737f-5b75-d487-479a07616ef3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RavenDB.Connect method" Url="html/05e9e02c-f0f5-f342-19c9-c5c938e4417d.htm" />
+  <HelpKINode Title="RavenDB.DocStore property" Url="html/8ba1fa2c-3051-2a1e-8a12-c1ac25bba9f5.htm" />
+  <HelpKINode Title="RavenDB.RavenDB constructor" Url="html/85dd01f3-f18e-3977-7849-61a007979307.htm" />
+  <HelpKINode Title="RegisterBundles method" Url="html/e39be3c0-bd44-1e09-2ae7-46ddcc1c7c28.htm" />
+  <HelpKINode Title="RegisterGlobalFilters method" Url="html/4dab7f0a-3761-5458-d599-ac0fde278b5b.htm" />
+  <HelpKINode Title="RegisterRoutes method" Url="html/10b02c36-b685-b7f9-4c73-c066f55ed017.htm" />
+  <HelpKINode Title="relativeImgPathFromFullPath method" Url="html/ce16d543-c825-7b45-c70e-45ff62d21280.htm" />
+  <HelpKINode Title="RouteConfig class" Url="html/31ee49d3-a290-c469-6ad7-f6c0f6063d27.htm" />
+  <HelpKINode Title="RouteConfig class" Url="html/3a226255-eb65-94dc-146c-41211930d6c8.htm" />
+  <HelpKINode Title="RouteConfig class">
+    <HelpKINode Title="about RouteConfig class" Url="html/3a226255-eb65-94dc-146c-41211930d6c8.htm" />
+    <HelpKINode Title="all members" Url="html/31ee49d3-a290-c469-6ad7-f6c0f6063d27.htm" />
+    <HelpKINode Title="constructor" Url="html/6c275922-11a7-b78a-ef94-8fd34baa7b8b.htm" />
+    <HelpKINode Title="methods" Url="html/d8d54e99-7121-fd16-ea72-4eae1f41b90b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RouteConfig.RegisterRoutes method" Url="html/10b02c36-b685-b7f9-4c73-c066f55ed017.htm" />
+  <HelpKINode Title="RouteConfig.RouteConfig constructor" Url="html/6c275922-11a7-b78a-ef94-8fd34baa7b8b.htm" />
+  <HelpKINode Title="WebApiApplication class" Url="html/75d62451-3a2b-b05d-594e-9613b20ea6bf.htm" />
+  <HelpKINode Title="WebApiApplication class" Url="html/ac40971b-9896-173e-3f4b-bec212d05e25.htm" />
+  <HelpKINode Title="WebApiApplication class">
+    <HelpKINode Title="about WebApiApplication class" Url="html/ac40971b-9896-173e-3f4b-bec212d05e25.htm" />
+    <HelpKINode Title="all members" Url="html/75d62451-3a2b-b05d-594e-9613b20ea6bf.htm" />
+    <HelpKINode Title="constructor" Url="html/1d916861-dc92-ec3a-ee1c-4a54e4729b5d.htm" />
+    <HelpKINode Title="methods" Url="html/cb1e3472-0123-acd9-27fd-6c7d3e7c9ecb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WebApiApplication.Application_Start method" Url="html/b6f8e91c-e8d1-dede-5191-e512b603c040.htm" />
+  <HelpKINode Title="WebApiApplication.WebApiApplication constructor" Url="html/1d916861-dc92-ec3a-ee1c-4a54e4729b5d.htm" />
+</HelpKI>
