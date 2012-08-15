@@ -99,7 +99,7 @@ namespace DataImporters
                 DirectoryInfo dirInfo = new DirectoryInfo(imgInboxString);
                 foreach (DirectoryInfo subDir in dirInfo.GetDirectories())
                 {
-                    lolCatFilePaths = from fileName in subDir.GetFiles()
+                    var dirFileResults = from fileName in subDir.GetFiles()
                                       //Don't discriminate against animated gifs, or portable network graphics! 
                                       //Of course, import the jpgs. 
                                     where fileName.Extension == ".jpg" ||
@@ -108,6 +108,18 @@ namespace DataImporters
                                     orderby fileName.FullName //Not necessary. But fun! 
                                     select fileName.FullName;
 
+                    //This will add the current directory's image path results to the existing results query. 
+                    if (dirFileResults != null)
+                    {
+                        //if lolCatFilePaths is uninitialized, just set it equal to the contents
+                        //of the current query. 
+                        if (lolCatFilePaths == null)
+                            lolCatFilePaths = dirFileResults;
+                        //Otherwise, we already have some valid query results, so add them to the 
+                        //existing results. 
+                        else
+                            lolCatFilePaths = lolCatFilePaths.Union(dirFileResults).ToList();
+                    }
                 }
 
             }
