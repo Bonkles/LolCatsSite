@@ -45,10 +45,13 @@ Upon server startup, the following occurs:
     in which case the image is updated just as if the random button was clicked. 
 
 
-Known Bugs: 
+Known Bugs/issues: 
 * Only 'happy path' testing has been performed. 
 * Currently there is no way to set the Cuteness or Rating properties of the documents- though, there are working 
 LINQ queries written to fetch lolcats of a minimum rating and/or Cuteness threshold. 
-
+* Known bug where issues do not show up in FireFox. 
+* jQuery script is included by the index page multiple times. (fix soon - this is related to backslashes vs. forward slashes in image URLs)
+* jQuery front end is very limited at the moment. It will be expanded in the future. 
+* The ImageImporter fires each & every time the Controller gets a request. It should really be a separate service process. 
 
 
