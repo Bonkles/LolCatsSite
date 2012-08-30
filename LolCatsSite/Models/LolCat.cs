@@ -117,7 +117,12 @@ namespace MvcTestApp.Models
 
             //Return the string that starts one character beyond the directory name, and ends at the end of the full file path string. 
             string returnString = fullFilePath.Substring(directoryName.Length, fullFilePath.Length - directoryName.Length);
-            return returnString; 
+ 
+            //Finally, we need to use these path names inside a web URL, therefore 
+            //backslashes '\' are not allowed. We must instead use forward slashes. 
+
+            String newReturnString = returnString.Replace('\\', '/');
+            return newReturnString; 
 
         }   
     }

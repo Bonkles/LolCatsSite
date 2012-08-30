@@ -1,65 +1,25 @@
-﻿    <script type="text/javascript">
-            $(document).ready(function () {
-                // Send an AJAX request
-                $.getJSON("api/lolCats/",
-        function (data) {
-            // On success, 'data' contains a list of products.
-            $.each(data, function (key, val) {
+<script type="text/javascript">
 
-                // Format the text to display.
-                var str = 'Filename: ' + val.Id + 
-                          '<br> Cuteness: ' + val.Cuteness +
-                          '<br> Image path: ' + val.ImgFilePath + 
-                          '<br> Rating: ' + val.Rating;
+    $(document).ready(function () {
+        //Create the list items required to run the slideshow. 
+        assembleSlides();
+        //start the slideshow with a three second transition. 
+        slideShow(3000);
 
-                // Add a list item for the product.
-                $('<li/>', { html: str })
-                .appendTo($('#lolCats'));
-            });
-        });
     });
-
-    function find() 
-    {
-    var id = $('#lolCatId').val();
-    $.getJSON("api/lolCats/" + id,
-        function (data) {
-            var str = 'Id: ' + data.Id + 
-                      '<br> Rating: ' + data.Rating +
-                      '<br> Cuteness: ' + data.Cuteness;
-            $("#pic").attr("src", "../../lolcat_inbox/" + data.ImgFilePath); 
-        })
-    .fail(
-        function (jqXHR, textStatus, err) {
-            $('#lolCat').html('Error: ' + err); 
-        });
-    }        
-    function random() 
-    {
-    var id = 'random=0';
-    $.getJSON("api/lolCats?" + id,
-        function (data) {
-            var str = 'Id: ' + data.Id + 
-                      '<br> Rating: ' + data.Rating +
-                      '<br> Cuteness: ' + data.Cuteness;
-              $("#pic").attr("src", "../../lolcat_inbox/" + data.ImgFilePath); 
-        })
-    .fail(
-        function (jqXHR, textStatus, err) {
-            $('#lolCat').html('Error: ' + err); 
-        });
-    }        
-    </script>
+</script>
 
     <div>
         <h1>Welcome to the LolCat Demonstrator!</h1>
     </div>
-    <div>
-        <label for="lolCatId">ID:</label>
-        <input type="text" id="lolCatId" size="50"/>
-        <input type="button" value="Search" onclick="find();" />
-        <input type="button" value="Random LolCat!" onclick="random();" />
-        <p id="lolCat" />
-        <img id="pic" src="../../lolcat_inbox/lolcats/funny-pictures-cat-justin-bieber-gifs.gif" alt="No Picture! :(" />
-        <ul id='lolCats' />
-    </div>
+
+
+<!--<ul class="slideshow">
+	<li class="show"><img src="images/s1.jpg"  title="Slide 1" alt="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."/></li>
+	<li><img src="images/s2.jpg"   title="Slide 2" alt="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."/></li>
+	<li><img src="images/s3.jpg" title="Slide 3" alt="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."/></li>
+    </ul>
+-->
+<div>
+<ul class="slideshow"/>
+</div>
